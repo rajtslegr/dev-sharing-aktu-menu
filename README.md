@@ -1,4 +1,4 @@
-# Micro Frontend Architecture or how we built a new menu for Aktualne.cz by
+# Micro Frontend Architecture or how we built a new menu for Aktualne.cz
 
 Slides for developer sharing about our micro frontend project for Aktualne.cz.
 
